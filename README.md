@@ -9,8 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1768-merge-strings-alternately](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
