@@ -17,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/HinduDusarla017/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
